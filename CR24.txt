@@ -1,0 +1,14 @@
+31148,Pushpa,g.pushpa@globaledgesoft.com,78,67,33
+31149,Lokesh,ramisetty@globaledgesoft.com,86,34,66
+31150,Sishir,gv.sisir@globaledgesoft.com,85,89,60
+31151,Nikhath,a.nikhattaj@globaledgesoft.com,66,70,24
+31152,Avani,as.avanishri@globaledgesoft.com,67,55,61
+31153,Akshitha,a.kulkarni@globaledgesoft.com,87,79,67
+31154,Shushma,k.sushma@globaledgesoft.com,88,78,99
+31155,Vijaya,vijayakalyan7@gmail.com,96,56,88
+31156,Priyanka,ks.priyanka@globaledgesoft.com,15,45,55
+31157,Prasanth,sh.prashant@globaledgesoft.com,54,81,12
+31158,Shriya,k.shreya@globaledgesoft.com,93,76,69
+31159,Praveena,p.boyapally@globaledgesoft.com,74,85,95
+31160,Nikitha,vh.nikitha@globaledgesoft.com,64,99,88
+31161,DhanaLakshmi,d.pydeti@globaledgesoft.com,65,80,62
